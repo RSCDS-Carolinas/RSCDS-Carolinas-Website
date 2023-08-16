@@ -32,7 +32,7 @@ There are also groups nearby the Carolinas (e.g. Atlanta and Washington D.C., wh
 
 # Information about the RSCDS Carolinas Branch
 
-TEXT. Events? Membership? Newsletter signup / etc.?
+TEXT. Events? Membership? Newsletter signup / etc.? Add more here. 
 
 ---
 
